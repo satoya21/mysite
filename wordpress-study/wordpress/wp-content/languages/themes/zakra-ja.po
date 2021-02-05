@@ -1,0 +1,1239 @@
+# Translation of Themes - Zakra in Japanese
+# This file is distributed under the same license as the Themes - Zakra package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-16 13:44:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Zakra\n"
+
+#. Theme Name of the theme
+#: inc/admin/class-zakra-welcome-notice.php:46
+#: inc/admin/class-zakra-dashboard.php:92 inc/helpers.php:153
+msgid "Zakra"
+msgstr "Zakra"
+
+#. Description of the theme
+msgid "Zakra is flexible, fast, lightweight and modern multipurpose theme that comes with many starter free sites (currently 10+ free starter sites and more will be added later) that you can use to make your site beautiful and professional. Check all the starter sites at https://zakratheme.com/demos. Suitable for personal blog, portfolio, WooCommerce stores, business websites and niche-based sites (like Cafe, Spa, Charity, Yoga, Wedding, Dentist, Education etc) as well. Works with Elementor plus other major page builders so you can create any layout you want. The theme is responsive, Gutenberg compatible, SEO friendly, translation ready and major WordPress plugins compatible."
+msgstr "Zakra は柔軟性のある、速くて、軽い、モダンな多目的テーマです。無料で使えるスターターサイトも豊富であなたのサイトをよりきれいに、プロフェショナルに見せます。 (現在、10+ の無料スターターサイトがあり、今後も増えていく予定です)。すべてのスターターサイトはこちらをご覧ください。 https://demo.themegrill.com/zakra-demos/ 個人ブログ、ポートフォリオ、WooCommerce ストア、ビジネスウェブサイトやニッチなサイト(カフェ、スパ、チャリティー、ヨガ、結婚式、歯科、教育など)にも適しています。Elementor をはじめとする主なページビルダーに対応しているため、好みのレイアウトを作成できます。また、このテーマはレスポンシブと Gutenberg 対応、 SEO フレンドリー、翻訳対応、主な WordPress プラグインに互換性があります。"
+
+#: inc/admin/class-zakra-dashboard.php:180
+msgid "Review"
+msgstr "レビュー"
+
+#: inc/admin/class-zakra-upgrade-notice.php:95
+msgid "Upgrade to pro"
+msgstr "プロ版へアップグレード"
+
+#: inc/admin/class-zakra-dashboard.php:132
+msgid "Get Started"
+msgstr "始めてみよう"
+
+#. translators: %s: Theme Name.
+#: inc/admin/class-zakra-dashboard.php:32
+msgid "%s Options"
+msgstr "%sの設定"
+
+#: inc/admin/class-zakra-dashboard.php:137
+msgid "Starter Demos"
+msgstr "スターターデモ"
+
+#: inc/admin/class-zakra-tdi-notice.php:48
+msgid "Update Now"
+msgstr "今すぐ更新"
+
+#: inc/admin/class-zakra-tdi-notice.php:42
+msgid "Action Required"
+msgstr "アクションが必要"
+
+#: inc/admin/class-zakra-tdi-notice.php:43
+#: inc/admin/class-zakra-tdi-notice.php:55
+msgid "ThemeGrill Demo Importer"
+msgstr "ThemeGrill デモインポートツール"
+
+#: inc/customizer/controls/php/class-zakra-customize-upsell-control.php:103
+msgid "View Pricing"
+msgstr "価格を表示"
+
+#: inc/customizer/register-panels-and-sections.php:20
+msgid "View Pro Version"
+msgstr "プロ版を表示"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:206
+msgid "Disable"
+msgstr "無効化"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:201
+msgid "Enable"
+msgstr "有効化"
+
+#: inc/admin/class-zakra-dashboard.php:80
+#: inc/customizer/register-panels-and-sections.php:391
+msgid "Meta"
+msgstr "メタ情報"
+
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:36
+msgid "Button Text"
+msgstr "ボタンテキスト"
+
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:50
+msgid "Button Link"
+msgstr "ボタンリンク"
+
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:66
+msgid "Open link in a new tab"
+msgstr "リンクを新しいタブで開く"
+
+#: inc/customizer/register-panels-and-sections.php:267
+msgid "Header Button"
+msgstr "ヘッダーボタン"
+
+#: inc/admin/class-zakra-dashboard.php:82
+#: inc/customizer/options/woocommerce/class-zakra-customize-layout-woocommerce-option.php:52
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: functions.php:114
+msgid "WooCommerce Right Sidebar"
+msgstr "WooCommerce 右サイドバー"
+
+#: functions.php:113
+msgid "WooCommerce Left Sidebar"
+msgstr "WooCommerce 左サイドバー"
+
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-dropdown-item-option.php:65
+msgid "Dropdown"
+msgstr "ドロップダウン"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:385
+msgid "Post/Page Title"
+msgstr "投稿/ページタイトル"
+
+#: inc/customizer/options/header/class-zakra-customize-site-identity-option.php:78
+msgid "Tagline"
+msgstr "キャッチフレーズ"
+
+#: inc/customizer/options/header/class-zakra-customize-site-identity-option.php:55
+msgid "Site Title"
+msgstr "サイトのタイトル"
+
+#: inc/admin/class-zakra-admin.php:33
+msgid "Processing..."
+msgstr "処理中…"
+
+#. Template Name of the theme
+msgid "Page Builder"
+msgstr "ページビルダー"
+
+#: inc/hooks/content.php:46
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:114
+msgid "Read More"
+msgstr "続きを読む"
+
+#. translators: %s: search query.
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:142
+#: inc/customizer/controls/php/class-zakra-fonts.php:143
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:139
+#: inc/customizer/controls/php/class-zakra-fonts.php:140
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:137
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:134
+#: inc/customizer/controls/php/class-zakra-fonts.php:135
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:132
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:130
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:128
+msgid "Book 300"
+msgstr "Book 300"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:126
+msgid "Light 200"
+msgstr "Light 200"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:123
+#: inc/customizer/controls/php/class-zakra-fonts.php:124
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:341
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:72
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:154
+#: inc/customizer/options/class-zakra-customize-base-option.php:80
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-item-option.php:40
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:71
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:155
+msgid "None"
+msgstr "なし"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:149
+msgid "Variant"
+msgstr "バリエーション"
+
+#: inc/customizer/controls/php/class-zakra-customize-slider-control.php:70
+msgid "Reset"
+msgstr "リセット"
+
+#: inc/customizer/controls/php/class-zakra-customize-dimensions-control.php:130
+msgid "Right"
+msgstr "右"
+
+#: inc/customizer/controls/php/class-zakra-customize-dimensions-control.php:132
+msgid "Left"
+msgstr "左"
+
+#: inc/customizer/controls/php/class-zakra-customize-dimensions-control.php:131
+msgid "Bottom"
+msgstr "下"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:192
+msgid "Line Height"
+msgstr "行の高さ"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:147
+msgid "Font Size"
+msgstr "フォントサイズ"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:159
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:196
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:340
+#: inc/customizer/options/global/class-zakra-customize-sidebar-layout-option.php:47
+#: inc/customizer/controls/php/class-zakra-customize-color-control.php:91
+msgid "Default"
+msgstr "デフォルト"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:164
+msgid "Fixed"
+msgstr "固定"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:159
+msgid "Scroll"
+msgstr "スクロール"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:154
+msgid "Background Attachment"
+msgstr "背景スクロール"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:147
+msgid "Auto"
+msgstr "自動"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:142
+msgid "Contain"
+msgstr "画像全体を表示"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:132
+msgid "Background Size"
+msgstr "背景のサイズ"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:126
+msgid "Center Bottom"
+msgstr "中央下"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:120
+msgid "Center Top"
+msgstr "中央上"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:117
+msgid "Right Bottom"
+msgstr "右下"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:114
+msgid "Right Center"
+msgstr "右中央"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:111
+msgid "Right Top"
+msgstr "右上"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:108
+msgid "Left Bottom"
+msgstr "左下"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:105
+msgid "Left Center"
+msgstr "左中央"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:102
+msgid "Left Top"
+msgstr "左上"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:98
+msgid "Background Position"
+msgstr "背景の位置"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:92
+msgid "Repeat Vertically"
+msgstr "縦に繰り返し"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:86
+msgid "Repeat All"
+msgstr "すべて繰り返し"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:83
+msgid "No Repeat"
+msgstr "繰り返しなし"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:79
+msgid "Background Repeat"
+msgstr "背景の繰り返し"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:71
+msgid "Select File"
+msgstr "ファイルを選択"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:69
+msgid "Remove"
+msgstr "削除"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:66
+msgid "No File Selected"
+msgstr "ファイルが選択されていません"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:59
+msgid "Background Image"
+msgstr "背景画像"
+
+#: inc/customizer/options/footer/class-zakra-customize-scroll-to-top-option.php:126
+#: inc/customizer/options/global/class-zakra-customize-button-option.php:158
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:178
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:48
+msgid "Background Color"
+msgstr "背景色"
+
+#: inc/customizer/options/global/class-zakra-customize-typography-option.php:69
+msgid "Heading"
+msgstr "見出し"
+
+#: inc/customizer/options/global/class-zakra-customize-typography-option.php:44
+msgid "Body"
+msgstr "本文"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:101
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:90
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:32
+msgid "Single Post Content Order"
+msgstr "個別投稿のコンテンツ順"
+
+#: inc/customizer/options/header/class-zakra-customize-header-main-option.php:70
+msgid "Enable Search Icon"
+msgstr "検索アイコンを有効化"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:74
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:156
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:73
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:157
+#: inc/customizer/register-panels-and-sections.php:282
+msgid "Menu"
+msgstr "メニュー"
+
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:41
+msgid "Enable Header Top Bar"
+msgstr "ヘッダートップバーを有効化"
+
+#: inc/customizer/options/global/class-zakra-customize-base-colors-option.php:73
+msgid "Primary Color"
+msgstr "メインカラー"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:125
+msgid "Enable Breadcrumbs"
+msgstr "パンくずリストを有効化"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-sidebar-option.php:58
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:74
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:55
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:75
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:56
+msgid "Meta Tags"
+msgstr "メタタグ"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:70
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:97
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:33
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:67
+msgid "Drag & Drop items to re-arrange the order"
+msgstr "項目のドラッグ & ドロップで順番を並べ替える"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:69
+msgid "Post Content Order"
+msgstr "投稿コンテンツ順"
+
+#: inc/customizer/register-panels-and-sections.php:419
+msgid "Footer"
+msgstr "フッター"
+
+#: inc/admin/class-zakra-dashboard.php:79
+#: inc/customizer/options/global/class-zakra-customize-sidebar-layout-option.php:75
+#: inc/customizer/register-panels-and-sections.php:378
+msgid "Single Post"
+msgstr "個別投稿"
+
+#: inc/customizer/options/global/class-zakra-customize-sidebar-layout-option.php:89
+msgid "Page"
+msgstr "固定ページ"
+
+#: inc/admin/class-zakra-dashboard.php:77
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:115
+msgid "Layout"
+msgstr "レイアウト"
+
+#: inc/hooks/header.php:616
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:112
+msgid "Breadcrumbs"
+msgstr "パンくずリスト"
+
+#: inc/customizer/options/footer/class-zakra-customize-scroll-to-top-option.php:68
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:316
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:370
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-option.php:119
+#: inc/customizer/options/header/class-zakra-customize-header-main-option.php:160
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:182
+msgid "Color"
+msgstr "色"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:82
+#: inc/customizer/register-panels-and-sections.php:202
+msgid "Header"
+msgstr "ヘッダー"
+
+#: inc/class-breadcrumb-trail.php:790
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/class-breadcrumb-trail.php:745
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/class-breadcrumb-trail.php:728
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/class-breadcrumb-trail.php:711
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#: inc/class-breadcrumb-trail.php:271
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: inc/class-breadcrumb-trail.php:269
+msgid "Home"
+msgstr "ホーム"
+
+#: inc/class-breadcrumb-trail.php:268
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "パンくずリスト"
+
+#: inc/hooks/header.php:62
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:153
+#: inc/customizer/register-panels-and-sections.php:404
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:28
+msgid "Primary"
+msgstr "メイン"
+
+#: inc/template-functions.php:242
+msgid "Search Results"
+msgstr "検索結果"
+
+#: inc/template-functions.php:240
+msgid "Page Not Found"
+msgstr "ページが見つかりません"
+
+#. translators: %s: post title
+#: inc/template-tags.php:101
+msgid "No Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%s への</span>コメントはまだありません"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:53
+msgctxt "post author"
+msgid "By %s"
+msgstr "作者: %s"
+
+#: inc/template-functions.php:351
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "お探しのページが見つかりません。"
+
+#. translators: %s: post date.
+#: inc/template-tags.php:19
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "投稿日: %s"
+
+#: inc/hooks/footer.php:240
+msgid "Scroll to top"
+msgstr "トップへ戻る"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:157
+msgid "Subset(s)"
+msgstr "サブセット"
+
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-option.php:36
+msgid "Disable Primary Menu"
+msgstr "メインメニューを無効化"
+
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:241
+msgid "Header Top Text Color"
+msgstr "ヘッダートップのテキスト色"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:134
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:149
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:136
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:152
+msgid "Right Content"
+msgstr "右コンテンツ"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:149
+msgid "Widget Title Color"
+msgstr "ウィジェットタイトルの色"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:49
+msgid "Hide Widget Title"
+msgstr "ウィジェットタイトルを非表示"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:69
+msgid "Footer Widgets Style"
+msgstr "フッターウィジェットのスタイル"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:36
+msgid "Enable Footer Widgets"
+msgstr "フッターウィジェットを有効化"
+
+#: inc/customizer/options/global/class-zakra-customize-container-option.php:92
+msgid "Content Width"
+msgstr "コンテンツの幅"
+
+#: inc/customizer/options/global/class-zakra-customize-container-option.php:120
+msgid "Sidebar Width"
+msgstr "サイドバーの幅"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:95
+msgid "Alignment"
+msgstr "配置"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:75
+msgid "Div"
+msgstr "Div"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:64
+msgid "Markup"
+msgstr "マークアップ"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:50
+msgid "Content Area"
+msgstr "コンテンツエリア"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:104
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:93
+msgid "Tags"
+msgstr "タグ"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:31
+msgid "Page Title"
+msgstr "ページタイトル"
+
+#: inc/admin/class-zakra-dashboard.php:78
+#: inc/customizer/options/global/class-zakra-customize-sidebar-layout-option.php:61
+#: inc/customizer/register-panels-and-sections.php:365
+msgid "Blog/Archive"
+msgstr "ブログ / アーカイブ"
+
+#: inc/admin/class-zakra-dashboard.php:76
+#: inc/customizer/options/header/class-zakra-customize-mobile-menu-option.php:56
+msgid "Mobile Menu"
+msgstr "モバイルメニュー"
+
+#: inc/admin/class-zakra-dashboard.php:73
+#: inc/customizer/register-panels-and-sections.php:241
+msgid "Header Top Bar"
+msgstr "ヘッダー上部バー"
+
+#: inc/admin/class-zakra-dashboard.php:104
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:238
+msgid "Remove Logo"
+msgstr "ロゴを削除"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:234
+msgid "Upload Logo"
+msgstr "ロゴをアップロード"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:221
+msgid "Logo"
+msgstr "ロゴ"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:189
+msgid "Enable Transparent Header"
+msgstr "透明ヘッダーを有効化"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:92
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:49
+#: inc/customizer/register-panels-and-sections.php:352
+msgid "Page Header"
+msgstr "ページヘッダー"
+
+#: inc/hooks/header.php:459 inc/admin/class-zakra-dashboard.php:75
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:87
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-item-option.php:195
+#: inc/customizer/register-panels-and-sections.php:295
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:75
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:157
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:74
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:158
+msgid "Widget"
+msgstr "ウィジェット"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:52
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:67
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:52
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:68
+msgid "Left Content"
+msgstr "左コンテンツ"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:196
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:198
+msgid "Select a Menu for Right Content"
+msgstr "右コンテンツのメニューを選択"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:114
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:114
+msgid "Select a Menu for Left Content"
+msgstr "左コンテンツのメニューを選択"
+
+#: inc/customizer/options/global/class-zakra-customize-base-colors-option.php:132
+msgid "Border Color"
+msgstr "枠線の色"
+
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-option.php:65
+#: inc/customizer/options/header/class-zakra-customize-header-main-option.php:113
+msgid "Border Bottom"
+msgstr "下の枠線"
+
+#: inc/customizer/options/footer/class-zakra-customize-scroll-to-top-option.php:155
+#: inc/customizer/options/global/class-zakra-customize-button-option.php:186
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:200
+msgid "Background Hover Color"
+msgstr "背景ホバーの色"
+
+#: inc/customizer/options/global/class-zakra-customize-button-option.php:130
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:156
+msgid "Text Hover Color"
+msgstr "テキストホバーの色"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:262
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:322
+msgid "Border Top"
+msgstr "上の枠線"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:50
+msgid "Excerpt"
+msgstr "抜粋"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:47
+msgid "Post Content"
+msgstr "コンテンツを投稿"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:243
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:309
+#: inc/customizer/options/global/class-zakra-customize-link-colors-option.php:64
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:338
+msgid "Link Hover Color"
+msgstr "リンクホバーの色"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:134
+msgid "Enable Read More"
+msgstr "「続きを読む」を有効化"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:154
+msgid "Read More Style"
+msgstr "「続きを読む」のスタイル"
+
+#: inc/customizer/options/global/class-zakra-customize-container-option.php:36
+msgid "Container Style"
+msgstr "コンテナスタイル"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:73
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:54
+msgid "Featured Image"
+msgstr "アイキャッチ画像"
+
+#: inc/customizer/register-panels-and-sections.php:187
+msgid "Button"
+msgstr "ボタン"
+
+#: inc/customizer/register-panels-and-sections.php:91
+msgid "Link Colors"
+msgstr "リンクの色"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:120
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:242
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:232
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:270
+#: inc/customizer/register-panels-and-sections.php:105
+msgid "Background"
+msgstr "背景"
+
+#: inc/customizer/register-panels-and-sections.php:77
+msgid "Base Colors"
+msgstr "基本色"
+
+#: inc/customizer/register-panels-and-sections.php:144
+msgid "Base Typography"
+msgstr "基本書式設定"
+
+#: inc/admin/class-zakra-dashboard.php:83
+#: inc/customizer/register-panels-and-sections.php:431
+msgid "Footer Widgets"
+msgstr "フッターウィジェット"
+
+#: inc/admin/class-zakra-dashboard.php:84
+#: inc/customizer/register-panels-and-sections.php:444
+msgid "Footer Bottom Bar"
+msgstr "フッター下のバー"
+
+#: inc/customizer/register-panels-and-sections.php:457
+msgid "Scroll to Top"
+msgstr "トップへ戻る"
+
+#: inc/admin/class-zakra-dashboard.php:103
+msgid "Support"
+msgstr "サポート"
+
+#: inc/meta-boxes/class-zakra-meta-box.php:39
+msgid "Page Settings"
+msgstr "ページ設定"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:367
+msgid "Enable Page Header"
+msgstr "ページヘッダーを有効化"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:347
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-item-option.php:43
+msgid "Right Border"
+msgstr "右の枠線"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:345
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-item-option.php:42
+msgid "Left Border"
+msgstr "左の枠線"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:343
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-item-option.php:41
+msgid "Underline Border"
+msgstr "下線の枠線"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:300
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-item-option.php:82
+msgid "Menu Item Color"
+msgstr "メニュー項目の色"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:103
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:92
+msgid "Date"
+msgstr "日付"
+
+#: inc/customizer/options/global/class-zakra-customize-button-option.php:63
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:193
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:101
+msgid "Padding"
+msgstr "パディング"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:213
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:286
+#: inc/customizer/options/global/class-zakra-customize-link-colors-option.php:42
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:309
+msgid "Link Color"
+msgstr "リンク色"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:100
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:89
+msgid "Comments"
+msgstr "コメント"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:96
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:66
+msgid "Meta Tags Order"
+msgstr "メタタグの並び順"
+
+#: inc/admin/class-zakra-theme-review-notice.php:94
+msgid "Got theme support question?"
+msgstr "テーマのサポートに関する質問がありますか ?"
+
+#: inc/admin/class-zakra-dashboard.php:74
+#: inc/customizer/register-panels-and-sections.php:254
+msgid "Header Main Area"
+msgstr "ヘッダーメインエリア"
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:75
+msgid "Posted in %1$s"
+msgstr "カテゴリー: %1$s"
+
+#: inc/admin/class-zakra-welcome-notice.php:78
+#: inc/admin/class-zakra-notice.php:63 inc/admin/class-zakra-notice.php:82
+msgid "Cheatin&#8217; huh?"
+msgstr "間違えましたか ?"
+
+#: inc/customizer/options/footer/class-zakra-customize-scroll-to-top-option.php:36
+msgid "Enable Scroll to Top"
+msgstr "「トップへ戻る」を有効化"
+
+#: inc/customizer/options/global/class-zakra-customize-button-option.php:227
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:235
+msgid "Roundness"
+msgstr "丸み"
+
+#: inc/customizer/options/global/class-zakra-customize-container-option.php:93
+#: inc/customizer/options/global/class-zakra-customize-container-option.php:121
+msgid "Only works for left/ right sidebar layout"
+msgstr "左 / 右サイドバーのレイアウトのみ作動します。"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:280
+msgid "Separator Color"
+msgstr "区切り色"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:389
+msgid "List Item Border Bottom Color"
+msgstr "リスト項目下の枠線色"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:335
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:358
+msgid "List Item Border Bottom"
+msgstr "リスト項目下の枠線幅"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:73
+msgid "Span"
+msgstr "スパン"
+
+#: functions.php:100 inc/meta-boxes/class-zakra-meta-box-page-settings.php:161
+msgid "Sidebar Left"
+msgstr "左サイドバー"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:143
+msgid "Remove content margin"
+msgstr "コンテンツのマージンを削除"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:250
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:35
+#: inc/customizer/options/header/class-zakra-customize-header-main-option.php:35
+msgid "Style"
+msgstr "スタイル"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:325
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-item-option.php:150
+msgid "Menu Item Active Color"
+msgstr "メニュー項目の有効時の色"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:312
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-item-option.php:114
+msgid "Menu Item Hover Color"
+msgstr "メニュー項目のホバー色"
+
+#: functions.php:102
+msgid "Header Top Bar Right Sidebar"
+msgstr "ヘッダー上部バーの右サイドバー"
+
+#: functions.php:101
+msgid "Header Top Bar Left Sidebar"
+msgstr "ヘッダー上部バーの左サイドバー"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:336
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-item-option.php:35
+msgid "Active Menu Item Style"
+msgstr "有効なメニュー項目スタイル"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:172
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:172
+msgid "Text/HTML for Right Content"
+msgstr "右コンテンツのテキスト/HTML "
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:90
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:88
+msgid "Text/HTML for Left Content"
+msgstr "左コンテンツのテキスト/HTML"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:73
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:155
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:72
+#: inc/customizer/options/header/class-zakra-customize-header-top-option.php:156
+msgid "Text/HTML"
+msgstr "テキスト/HTML"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/blog/blog-post-layout.php:70
+#: template-parts/content-single.php:75
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\">\"%s\" の</span>続きを読む"
+
+#: template-parts/content-page.php:24
+#: template-parts/blog/blog-post-layout.php:84
+#: template-parts/content-single.php:88
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:80
+msgid ", "
+msgstr "、"
+
+#: template-parts/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:26
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: inc/admin/class-zakra-dashboard.php:81
+#: inc/customizer/options/content/class-zakra-customize-blog-sidebar-option.php:31
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:357
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-item-option.php:172
+#: inc/customizer/options/header/class-zakra-customize-primary-menu-dropdown-item-option.php:34
+#: inc/customizer/options/header/class-zakra-customize-site-identity-option.php:32
+#: inc/customizer/options/header/class-zakra-customize-mobile-menu-option.php:33
+#: inc/customizer/register-panels-and-sections.php:131
+msgid "Typography"
+msgstr "タイポグラフィ"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "「%1$s」への1件のフィードバック"
+
+#: inc/meta-boxes/class-zakra-meta-box-page-settings.php:77
+msgid "General"
+msgstr "一般"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:137
+msgid "Cover"
+msgstr "カバー"
+
+#: inc/class-breadcrumb-trail.php:761 inc/class-breadcrumb-trail.php:789
+#: inc/class-breadcrumb-trail.php:827 inc/class-breadcrumb-trail.php:853
+#: inc/class-breadcrumb-trail.php:1199
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#. Translators: %s is the page number.
+#: inc/class-breadcrumb-trail.php:275
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: inc/customizer/options/global/class-zakra-customize-typography-option.php:225
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:72
+msgid "Heading 6"
+msgstr "見出し6"
+
+#: inc/customizer/options/global/class-zakra-customize-typography-option.php:199
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:71
+msgid "Heading 5"
+msgstr "見出し5"
+
+#: inc/customizer/options/global/class-zakra-customize-typography-option.php:173
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:70
+msgid "Heading 4"
+msgstr "見出し4"
+
+#: inc/customizer/options/global/class-zakra-customize-typography-option.php:147
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:69
+msgid "Heading 3"
+msgstr "見出し3"
+
+#: inc/customizer/options/global/class-zakra-customize-typography-option.php:121
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:68
+msgid "Heading 2"
+msgstr "見出し2"
+
+#: inc/customizer/options/global/class-zakra-customize-typography-option.php:95
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:67
+msgid "Heading 1"
+msgstr "見出し1"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:37
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "編集 <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:126
+msgid "Tagged %1$s"
+msgstr "タグ: %1$s"
+
+#: functions.php:124
+msgid "Add widgets here."
+msgstr "ここにウィジェットを追加。"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」への%1$s件のフィードバック"
+
+#: inc/class-breadcrumb-trail.php:763 inc/class-breadcrumb-trail.php:1203
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j日"
+
+#: inc/class-breadcrumb-trail.php:762 inc/class-breadcrumb-trail.php:828
+#: inc/class-breadcrumb-trail.php:1201
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "n月"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/class-breadcrumb-trail.php:281
+msgid "Week %s"
+msgstr "%s週"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/class-breadcrumb-trail.php:279
+msgid "Minute %s"
+msgstr "%s分"
+
+#: inc/class-breadcrumb-trail.php:270
+msgid "404 Not Found"
+msgstr "404: 見つかりませんでした"
+
+#: inc/class-breadcrumb-trail.php:267
+msgid "Browse:"
+msgstr "続きを読む:"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:102
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:91
+msgid "Author"
+msgstr "投稿者"
+
+#: inc/customizer/options/content/class-zakra-customize-blog-sidebar-option.php:84
+#: inc/customizer/options/content/class-zakra-customize-blog-archive-option.php:76
+#: inc/customizer/options/content/class-zakra-customize-single-blog-post-option.php:57
+#: inc/customizer/register-panels-and-sections.php:339
+msgid "Content"
+msgstr "内容"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:123
+msgid "Center Center"
+msgstr "中央/中央"
+
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:74
+msgid "Paragraph"
+msgstr "段落"
+
+#: inc/customizer/controls/php/class-zakra-customize-dimensions-control.php:129
+msgid "Top"
+msgstr "上"
+
+#: functions.php:106 inc/meta-boxes/class-zakra-meta-box-page-settings.php:165
+msgid "Footer Four"
+msgstr "フッター4"
+
+#: functions.php:103 inc/meta-boxes/class-zakra-meta-box-page-settings.php:162
+msgid "Footer One"
+msgstr "フッター1"
+
+#: functions.php:105 inc/meta-boxes/class-zakra-meta-box-page-settings.php:164
+msgid "Footer Three"
+msgstr "フッター3"
+
+#: functions.php:104 inc/meta-boxes/class-zakra-meta-box-page-settings.php:163
+msgid "Footer Two"
+msgstr "フッター2"
+
+#. translators: %s: month
+#: inc/template-functions.php:226
+msgid "Month: %s"
+msgstr "月別: %s"
+
+#: template-parts/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#: inc/customizer/options/footer/class-zakra-customize-footer-widget-option.php:184
+#: inc/customizer/options/footer/class-zakra-customize-footer-bottom-bar-option.php:263
+#: inc/customizer/options/global/class-zakra-customize-base-colors-option.php:105
+#: inc/customizer/options/global/class-zakra-customize-button-option.php:102
+#: inc/customizer/options/content/class-zakra-customize-page-header-option.php:251
+#: inc/customizer/options/header/class-zakra-customize-header-button-option.php:134
+msgid "Text Color"
+msgstr "文字色"
+
+#: inc/admin/class-zakra-welcome-notice.php:74
+#: inc/admin/class-zakra-notice.php:59 inc/admin/class-zakra-notice.php:78
+msgid "Action failed. Please refresh the page and retry."
+msgstr "操作に失敗しました。ページを再読み込みし、もう一度お試しください。"
+
+#: functions.php:99 inc/meta-boxes/class-zakra-meta-box-page-settings.php:160
+msgid "Sidebar Right"
+msgstr "サイドバー右"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:131
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. Translators: %s is the search query.
+#: inc/class-breadcrumb-trail.php:273
+msgid "Search results for: %s"
+msgstr "検索結果: %s"
+
+#. Translators: %s is the page number.
+#: inc/class-breadcrumb-trail.php:277
+msgid "Comment Page %s"
+msgstr "コメントページ %s"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "ここには何も見つかりませんでした。以下のリンクまたは検索をお試しください。"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/class-zakra-welcome-notice.php:54
+msgid "Welcome! Thank you for choosing Zakra! To fully take advantage of the best our theme can offer, please make sure you visit our %1$swelcome page%2$s."
+msgstr "ようこそ ! Zakra を選んでいただき、ありがとうございます。このテーマを活用するには、はじめに%1$sウェルカムページ%2$sをご覧ください。"
+
+#: inc/admin/class-zakra-welcome-notice.php:26
+msgid "Get started with Zakra"
+msgstr "Zakra を利用開始"
+
+#. translators: %s: author.
+#: inc/template-functions.php:209
+msgid "Author: %s"
+msgstr "投稿者: %s"
+
+#. translators: %s: year.
+#: inc/template-functions.php:230
+msgid "Year: %s"
+msgstr "年: %s"
+
+#. translators: %s: day
+#: inc/template-functions.php:222
+msgid "Day: %s"
+msgstr "日: %s"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:172
+msgid "Font size"
+msgstr "フォントサイズ"
+
+#: template-parts/content-none.php:15
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:144
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:141
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:138
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:136
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:133
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:131
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:129
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:127
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: inc/customizer/controls/php/class-zakra-fonts.php:125
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: inc/woocommerce.php:112 inc/woocommerce.php:146
+msgid "View your shopping cart"
+msgstr "お買い物カゴを表示"
+
+#: inc/customizer/controls/php/class-zakra-customize-background-control.php:89
+msgid "Repeat Horizontally"
+msgstr "水平方向に繰り返し"
+
+#: inc/customizer/options/footer/class-zakra-customize-scroll-to-top-option.php:97
+msgid "Hover Color"
+msgstr "ホバーの色"
+
+#: inc/customizer/controls/php/class-zakra-customize-typography-control.php:141
+msgid "Font family"
+msgstr "フォント"
+
+#: inc/customizer/options/global/class-zakra-customize-container-option.php:65
+msgid "Container Width"
+msgstr "コンテナー幅"
+
+#. Theme URI of the theme
+msgid "https://zakratheme.com/"
+msgstr "https://zakratheme.com/"
+
+#. Author URI of the theme
+msgid "https://themegrill.com"
+msgstr "https://themegrill.com"
+
+#. Author of the theme
+msgid "ThemeGrill"
+msgstr "ThemeGrill"

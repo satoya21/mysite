@@ -49,28 +49,35 @@
   flex-wrap: wrap;
 }
 .main{
-    width: 58%;
+    width: 56.4%;
     margin-left: 95px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: start;
 }
 .main-post{
     display: inline-block;
     text-align: center;
     width: 350px;
-    height: 350px;
-    margin-left: 20px;
+    height: 320px;
     border: solid 1px darkgray;
-    margin-bottom: 20px;
+    flex-basis: auto;
 }
-.main-post a{
+.main-post-link{
+    width: 350px;
+    height: 320px;
     text-decoration: none;
+    margin-left: 20px;
+    margin-bottom: 20px;
 }
 .main-post-head{
     position: relative;
     width: 350px;
     text-align: center;
 }
-.main-post-img{
-    width: 350px;
+.main-post-thumbnail{
+    height: 12.3rem;
+    margin: 0 0;
 }
 .main-post-category{
     position: absolute;
@@ -78,11 +85,13 @@
     color: white;
     background-color: yellowgreen;
     border-radius: 10px;
+    margin-top: 4px;
     padding: 3px 10px;
     top: 0;
     left: 10px;
 }
 .main-post-title{
+    height: 4rem;
     text-align: left;
     font-size: 17px;
     color: black;
@@ -108,6 +117,7 @@
 
 .side{
     width: 30%;
+    height: 2300px;
     text-align: center;
 }
 .download{
@@ -227,6 +237,7 @@
     display: flex;
     font-size: 13.5px;
     text-decoration: none;
+    color: black;
 }
 .SIDE-RECENTPOST ul span p, .SIDE-RECOMMEND a span p{
     text-align: left;
@@ -437,4 +448,173 @@
     font-size: 5px;
     padding: 15px 0;
     margin-top: 35px;
+}
+
+.single-body{
+  width: 56.4%;
+  margin-top: 20px;
+  margin-left: 6rem;
+  margin-right: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+.post{
+    position: relative;
+    height: fit-content;
+    border: solid 1px whitesmoke;
+}
+.single-side{
+    width: 30%;
+    height: 2300px;
+    margin-top: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+.post-category{
+    display: inline-block;
+    font-size: 5px;
+    color: white;
+    background-color: yellowgreen;
+    border-radius: 10px;
+    margin-left: 2rem;
+    margin-top: 1.7rem;
+    padding: 5px 14px;
+}
+.single-post-title{
+    padding-left: 1rem;
+    margin: 0.5rem 2rem 0 0 ;
+    font-size: 1.8rem;
+    margin-left: 1rem;
+}
+.single-post-date{
+    text-align: right;
+    margin-right: 2rem;
+    font-size: 0.8rem;
+    margin-bottom: 0.4rem;
+    padding-right: 0;
+}
+.single-post-img{
+    margin-left: 2rem;
+    width: 43.5rem;
+}
+.post-sns, .post-sns-download{
+    margin-left: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+.post-twitter, .post-facebook, .post-B, .post-pocket, .post-line{
+    padding-right: 0.2rem;
+}
+.post-sns-download{
+    height: 2.2rem;
+}
+.single-download{
+    height: 48rem;
+    margin: 0 2rem;
+    margin-bottom: 2rem;
+    padding-top: 2rem;
+    text-align: center;
+    background-color: #333333; 
+    color: white;
+}
+.download-picture{
+    padding-top: 0;
+}
+.single-download-title{
+    font-size: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.single-download-text1{
+    text-align: left;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-top: 2.4rem;
+}
+.single-download-text2{
+    text-align: left;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-top: 2.4rem;
+    margin-bottom: 3.5rem;
+}
+.post-download-botton{
+    font-size: 1.3rem;
+    color: white;
+    background-color: #ff3366;
+    border-radius: 0.5rem;
+    text-decoration: none;
+    padding: 1.4rem 11rem;
+}
+.related-post{
+    width: 100%;
+}
+.target-related-post{
+    border: solid 1px darkgray;
+    width: 31.5%;
+    height: 14rem;
+    display: inline-block;
+    margin-right: 0.5rem;
+    margin-top: 1rem;
+}
+.related-post-head{
+    position: relative;
+}
+.related-post-thumbnail{
+    height: 10rem;
+    margin: 0 0;
+}
+.target-related-post a{
+    text-decoration: none;
+    font-size: 0.8rem;
+}
+.title{
+    text-align: center;
+    line-height: 0.9rem;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.related-post-date{
+    text-align: right;
+    font-size: 3px;
+    color: darkgray;
+    padding-bottom: 0;
+    padding-right: 0;
+    margin-top: 1.7rem;
+}
+.related-post-category{
+    position: absolute;
+    font-size: 5px;
+    color: white;
+    background-color: yellowgreen;
+    border-radius: 10px;
+    margin-top: 6px;
+    padding: 3px 10px;
+    top: 0;
+    left: 10px;
+}
+.previous-next-post{
+    font-size: 0.8rem;
+    height: 5rem;
+    width: 100%;
+}
+.previous-next-post li{
+    display: flex;
+    float: left;
+    list-style: none;
+    width: 20rem;
+    height: 5rem;
+    border: solid 1px darkgray;
+    margin-right: 1.2rem;
+    margin-left: 0;
+}
+.previous-next-post-img{
+    width: 15rem;
+    display: inline-block;
+}
+.previous-next-post-link{
+    text-decoration: none;
+}
+.previous-next-post-title{
+    display: inline;
 }

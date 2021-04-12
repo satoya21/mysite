@@ -1,0 +1,427 @@
+.header-logo{
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 60px;
+}
+.JIN{
+    color: yellowgreen;
+}
+.menu{
+    text-align: center;
+}
+.header-menu{
+    margin-left: 390px;
+    margin-bottom: 100px;
+}
+.menu-item{
+    list-style: none;
+    float: left;
+    margin-left: 45px;
+    font-size: 14px;
+}
+.menu-link{
+    position: relative;
+  display: inline-block;
+  text-decoration: none;
+  color: #333;
+}
+.menu-link::after{
+    position: absolute;
+  bottom: -8px;
+  left: 0;
+  content: '';
+  width: 100%;
+  height: 2px;
+  background: #333;
+  opacity: 0;
+  visibility: hidden;
+  transition: .3s;
+}
+.menu-link:hover::after{
+    bottom: -4px;
+    opacity: 1;
+    visibility: visible;
+}
+.body{
+    margin-left: 140px;
+    width: 64%;
+    display: grid;
+    grid-template-columns: 750px 365px;
+    grid-template-rows: 2400px;
+    grid-row-gap: 10px;
+    grid-column-gap: 20px;
+}
+.main{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 365px);
+    grid-template-rows: repeat(auto-fit, 350px);
+    grid-row-gap: 10px;
+    grid-column-gap: 20px;
+}
+.main-post{
+    border: solid  darkgray 1px;
+}
+.main-post a{
+    text-decoration: none;
+}
+.main-post-head{
+    position: relative;
+    width: 350px;
+    text-align: center;
+}
+.main-post-img{
+    width: 363px;
+}
+.main-post-category{
+    position: absolute;
+    font-size: 5px;
+    color: white;
+    background-color: yellowgreen;
+    border-radius: 10px;
+    padding: 3px 10px;
+    top: 0;
+    left: 10px;
+}
+.main-post-text{
+    text-align: left;
+    font-size: 17px;
+    color: black;
+}
+.main-post-date{
+    text-align: right;
+    font-size: 3px;
+    color: darkgray;
+    padding-bottom: 10px;
+    padding-right: 15px;
+}
+.side{
+    margin-top: 20px;
+    width:406px;
+    text-align: center;
+}
+.download{
+    text-align: center;
+    border: darkgray solid 1px;
+    width: 86%;
+    padding-bottom: 30px;
+}
+.download-logo{
+    font-size: 18.5px;
+    color: white;
+    background-color: black;
+    height: 40px;
+    width: 350px;
+    padding-top: 11px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.download-picture{
+    padding-top: 20px;
+}
+.download-explanation{
+    text-align: left;
+    font-size: 14.5px;
+    margin-top: 10px;
+    padding: 0 25px;
+    padding-bottom: 20px;
+}
+.side-download-button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 14px;
+    border: double 1px white;
+    border-radius:30px;
+    background-color: #ff3366;
+    padding: 13px 60px;
+    text-decoration: none;
+}
+.SNSinfo{
+    text-align: center;
+    border: darkgray solid 1px;
+    width: 86%;
+    margin-top: 30px;
+    padding-top: 35px;
+}
+.SNSinfo-circle-button{
+    display: inline-block;
+  text-decoration: none;
+  width: 120px;
+  height: 120px;
+  line-height: 120px;
+  border-radius: 50%;
+  text-align: center;
+  overflow: hidden;
+  transition: .4s;
+}
+.SNSinfo-logo{
+    font-size: 15px;
+    margin: 0 0;
+}
+.SNSinfo-logo2{
+    font-size: 8px;
+    color: darkgray;
+    margin-top: 0;
+}
+.SNSinfo-explanation{
+    text-align: left;
+    font-size: 13.5px;
+    padding: 0 54.5px;
+}
+.SNSinfo-detail{
+  padding: 7px 40px;
+  border-radius: 25px;
+  font-size: 4px;
+  text-decoration: none;
+  color: white;
+  background-color: gray;
+}
+.SNS{
+    background-color: yellowgreen;
+    color: white;
+    font-size: 13px;
+    padding-top: 5px;
+    margin-top: 10px;
+}
+.Twitter{
+    width: 32px;
+    height: 32px;
+}
+.LINE{
+    width: 32px;
+    height: 32px;
+}
+.SIDE-menu{
+    width: 86%;
+    padding-top: 30px;
+}
+.SIDE-RECENTPOST, .SIDE-CATEGORY, .SIDE-TAG, .SIDE-SEARCH, .SIDE-RECOMMEND{
+    border: darkgray solid 1px;
+    margin-bottom: 30px;
+}
+.RECENTPOST, .CATEGORY , .TAG, .SEARCH, .RECOMMEND{
+    text-align: left;
+    margin: 20px 27px;
+    border-bottom: solid black 2px;
+}
+.SIDE-RECENTPOST ul{
+    list-style: none;
+    font-size: 10px;
+    padding-left: 30px;
+}
+.SIDE-RECENTPOST-img{
+    width: 110px;
+}
+.SIDE-RECENTPOST a, .SIDE-RECOMMEND a{
+    display: flex;
+    font-size: 13.5px;
+    text-decoration: none;
+}
+.SIDE-RECENTPOST ul span p, .SIDE-RECOMMEND a span p{
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 25px;
+}
+.SIDE-RECENTPOST p{
+    margin-bottom: 0px;
+}
+.SIDE-CATEGORY-menu label{
+    cursor: pointer;
+    margin-right: 145px;
+}
+#SIDE-CATEGORY-menubar{
+    display: none;
+}
+#SIDE-CATEGORY-links{
+    list-style: none;
+}
+#SIDE-CATEGORY-links a{
+    text-decoration: none;
+}
+
+#SIDE-CATEGORY-links li{
+    height: 0;
+    text-align: left;
+    overflow: hidden;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+#SIDE-CATEGORY-menubar:checked ~ #SIDE-CATEGORY-links li{
+    height: 45px;
+    opacity: 1;
+    text-align: left;
+}
+.SIDE-TAG-items{
+    text-align: center;
+}
+.SIDE-TAG ul{
+    list-style: none;
+    margin-right: 20px;
+    padding-right: 80px;
+    padding-left: 24px;
+    text-align: left
+}
+.SIDE-TAG li{
+    display: inline-block;
+}
+.SIDE-TAG  a{
+    text-decoration: none;
+    text-align: left;
+    font-size: 10px;
+    padding: 5px 5px;
+    color: black;
+    background-color: whitesmoke;
+}
+.SIDE-SEARCH-form{
+    margin-bottom: 30px;
+    padding: 5px 60px;
+}
+.SIDE-SEARCH button{
+    padding: 12px 5px;
+}
+.SIDE-RECOMMEND a{
+    margin-left: 30px;
+    font-size: 13.5px;
+}
+.footer{
+    background-color: #333333; 
+    color: white;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+
+}
+.footer-logo{
+    width: 30%;
+    padding-left: 100px;
+}
+.footer-JIN{
+    font-size: 70px;
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+.footer-explanation1{
+    font-size: 14px;
+    margin: 10px 60px;
+    text-align: left;
+}
+.footer-explanation2{
+    font-size: 14px;
+    margin: 0 60px;
+    margin-bottom: 40px;
+    text-align: left;
+}
+.footer-download-button{
+    color: white;
+    font-size: 14px;
+    border-radius:30px;
+    background-color: #ff3366;
+    padding: 12px 55px;
+    margin-top: 30px;
+    text-decoration: none;
+}
+.footer-TAG{
+    margin-top: 80px;
+    text-align: left;
+    padding-left: 38px;
+}
+.footer-TAG-log{ 
+    border-left: solid 3px yellowgreen;
+    margin-left: 25px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+.footer-TAG-items ul{
+    list-style: none;
+    margin-right: 100px;
+    padding-left: 25px;
+    margin-top: 0px;
+}
+.footer-TAG-items ul li{
+    display: inline-block;
+}
+.footer-TAG-items ul a{
+    text-decoration: none;
+    text-align: left;
+    font-size: 10px;
+    padding: 5px 5px;
+    color: black;
+    background-color: whitesmoke;
+}
+
+.footer-list{
+    width: 60%;
+}
+.footer-CATEGORY{
+    float: left;
+    margin: 30px 30px;
+    text-align: center;
+}
+.footer-CATEGORY p{
+    border-left: solid 3px yellowgreen;
+    margin-left: 25px;
+}
+.CATEGORY-items{
+    text-align: left;
+}
+.CATEGORY-items li a, .ARCHIVES-items li a{
+    color: white;
+    text-decoration: none;
+}
+.footer-ARCHIVES{
+    float: left;
+    margin: 30px 30px;
+    text-align: center;
+}
+.footer-ARCHIVES p{
+    border-left: solid 3px yellowgreen;
+    margin-left: 25px;
+    padding-left: 5px;
+}
+.ARCHIVES-items{
+    text-align: left;
+}
+.footer-POPULARPOST{
+    float: left;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-align: left;
+    width: 400px;
+}
+.footer-POPULARPOST-logo{
+    border-left: solid 3px yellowgreen;
+    margin-left: 40px;
+    margin-bottom: 0;
+    padding-left: 10px;
+}
+.footer-POPULARPOST ul{
+    list-style: none;
+    margin-top: 8px;
+}
+.footer-POPULARPOST a{
+    display: flex;
+    color: white;
+    font-size: 13.5px;
+    text-decoration: none;
+    padding-top: 0;
+}
+.footer-POPULARPOST-img{
+    margin-bottom: 0;
+}
+.footer-POPULARPOST a span p{
+    margin-left: 10px;
+    padding-right: 70px;
+}
+.end{
+    width: 100%;
+    border-top: solid 1px white;
+    font-size: 5px;
+    padding: 15px 0;
+    margin-top: 35px;
+}

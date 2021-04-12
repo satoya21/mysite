@@ -37,10 +37,10 @@ msgstr "現代美術館が新装オープン"
 msgid "View Archive <span aria-hidden=\"true\">&rarr;</span>"
 msgstr "アーカイブを表示 <span aria-hidden=\"true\">&rarr;</span>"
 
-#: inc/starter-content.php:73 inc/starter-content.php:88
-#: inc/starter-content.php:105 inc/starter-content.php:120
 #: inc/block-patterns.php:78 inc/block-patterns.php:160
-#: inc/block-patterns.php:174
+#: inc/block-patterns.php:174 inc/starter-content.php:73
+#: inc/starter-content.php:88 inc/starter-content.php:105
+#: inc/starter-content.php:120
 msgid "Read More"
 msgstr "続きを読む"
 
@@ -56,7 +56,7 @@ msgstr "メインカラー"
 msgid "Join the Club"
 msgstr "参加する"
 
-#: inc/starter-content.php:148 inc/block-patterns.php:45
+#: inc/block-patterns.php:45 inc/starter-content.php:148
 msgid "Members get access to exclusive exhibits and sales. Our memberships cost $99.99 and are billed annually."
 msgstr "会員の方は、限定展示やセールにアクセスできます。会員になるには年間1万円の費用がかかり、請求は年に1回です。"
 
@@ -72,7 +72,7 @@ msgstr "「哲学者ドナ・ハラウェイが証明したとおり、サイボ
 msgid "From Signac to Matisse"
 msgstr "シニャックからマチスまで"
 
-#: inc/starter-content.php:99 inc/block-patterns.php:168
+#: inc/block-patterns.php:168 inc/starter-content.php:99
 msgid "The Life I Deserve"
 msgstr "値する人生"
 
@@ -133,11 +133,11 @@ msgstr "展覧会は現代美術館と世界中のアーティストや美術館
 msgid "With seven floors of striking architecture, UMoMA shows exhibitions of international contemporary art, sometimes along with art historical retrospectives. Existential, political and philosophical issues are intrinsic to our programme. As visitor you are invited to guided tours artist talks, lectures, film screenings and other events with free admission"
 msgstr "7階建ての印象的な建築の現代美術館では、国際的な現代美術の展示を行っています。その際、美術の歴史的分析も含めることもあります。実存的、政治的、哲学的問題は当館のプログラムの本質といえます。訪問者の皆さんを、ガイド付きツアー、アーティストトーク、講演、映画上映などの無料イベントへご招待しています。"
 
-#: inc/starter-content.php:67 inc/block-patterns.php:154
+#: inc/block-patterns.php:154 inc/starter-content.php:67
 msgid "Works and Days"
 msgstr "作品と日程"
 
-#: searchform.php:24 template-parts/modal-search.php:20
+#: template-parts/modal-search.php:20 searchform.php:24
 msgid "Search for:"
 msgstr "検索対象:"
 
@@ -240,12 +240,12 @@ msgid "Background Color"
 msgstr "背景色"
 
 #. translators: %s: Author name.
-#: inc/template-tags.php:357 template-parts/entry-author-bio.php:20
+#: template-parts/entry-author-bio.php:20 inc/template-tags.php:357
 msgid "By %s"
 msgstr "作成者: %s"
 
-#: inc/template-tags.php:392 template-parts/entry-header.php:36
-#: template-parts/content-cover.php:70
+#: template-parts/content-cover.php:70 template-parts/entry-header.php:36
+#: inc/template-tags.php:392
 msgid "Categories"
 msgstr "カテゴリー"
 
